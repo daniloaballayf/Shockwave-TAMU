@@ -1,3 +1,3 @@
 # Shockwave-study
 
-Code of shockwave propagation in intership of Texas A&M
+Code of shockwave propagation in internship of Texas A&M
